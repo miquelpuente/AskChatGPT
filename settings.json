@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:/Users/mipue/AppData/Local/Microsoft/WindowsApps/python.exe", // Ruta al intérprete de Python utilizado en tu proyecto
+    "python.linting.pylintEnabled": true, // Habilitar Pylint para detectar errores y dar sugerencias en tiempo real
+    "python.linting.enabled": true, // Habilitar la detección de errores en tiempo real
+    "editor.formatOnSave": true // Formatear automáticamente el código cuando se guarda el archivo
+}
